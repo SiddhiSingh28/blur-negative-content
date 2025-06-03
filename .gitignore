@@ -1,0 +1,9 @@
+# Ignore Llama & AI models (Large files)
+*.gguf
+*.pth
+*.bin
+*.onnx
+*.h5
+__MACOSX/
+
+.DS_Store
