@@ -1,4 +1,4 @@
-# CSCI-534-Browser-BlurNegative
+# Browser-BlurNegativeContent
 Blur Out Negative Content Extension is a browser tool that filters and blurs negative content on webpages, offering users a more positive and stress-free browsing experience by automatically detecting and obscuring harmful or distressing videos.
 
 curl -L -o models/llama-2-7b.Q4_K_M.gguf https://huggingface.co/TheBloke/Llama-2-7B-GGUF/resolve/main/llama-2-7b.Q4_K_M.gguf
